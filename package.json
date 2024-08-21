@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshkumar434/namasteReact.git"
+  },
+  "keywords": [
+    "suresh_r_k",
+    "suresh_k",
+    "react_practice",
+    "react",
+    "react_learning",
+    "namaste_react"
+  ],
+  "author": "Suresh Kengalgutti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sureshkumar434/namasteReact/issues"
+  },
+  "homepage": "https://github.com/sureshkumar434/namasteReact#readme"
+}
